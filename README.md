@@ -1,7 +1,6 @@
 # CarringNanny
 CarringNanny is a modern platform connecting parents with qualified childcare providers. Our application streamlines the process of finding, vetting, and booking nannies while providing a professional platform for childcare providers to showcase their skills and manage their bookings.
 
-Deployement: [caring-nanny-fr.vercel.app](https://caring-nanny-fr.vercel.app/)
 
 ✨ Features
 👪 For Parents
